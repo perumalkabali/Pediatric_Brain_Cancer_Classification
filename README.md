@@ -1,7 +1,7 @@
 # Pediatric_Brain_Cancer_Classification
 ## Introduction
 
-This repository integrates cutting-edge generative AI capabilities, leveraging OpenAI's GPT-3.5 model, with bioinformatics analyses focused on pediatric brain cancer research. The analyses are based on the Pediatric Brain Cancer study published in Cell in 2020.
+This repository utilizes generative AI capabilities by leveraging OpenAI's GPT-3.5 model, with bioinformatics analyses focused on pediatric brain cancer research. The analyses are based on the Pediatric Brain Cancer study published in Cell in 2020. Research Article: [Pediatric Brain Cancer (CPTAC/CHOP, Cell 2020)](https://pubmed.ncbi.nlm.nih.gov/33242424/)
 
 ## Data Description
 
